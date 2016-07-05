@@ -1,5 +1,5 @@
 # usa-hexagons
-A collection of univariate and bivariate color maps of various USA data. 
+A collection of univariate and bivariate color maps of various USA data. Viewable here: https://jmithani.github.io/usa-hexagons/
 
 Project for CMSC 23900 Data Visualization, Spring 2016. 
 
