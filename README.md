@@ -1,6 +1,8 @@
 # usa-hexagons
 A collection of univariate and bivariate color maps of various USA data. 
+
 Project for CMSC 23900 Data Visualization, Spring 2016. 
+
 Jasmine Mithani & Tasnim Rahman
 
 ## Project Attributions
